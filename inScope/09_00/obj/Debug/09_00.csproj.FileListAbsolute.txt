@@ -1,0 +1,11 @@
+F:\Game\Kenneth Andersen\inScope\09_00\bin\Debug\Sprites\player.png
+F:\Game\Kenneth Andersen\inScope\09_00\bin\Debug\09_00.exe.config
+F:\Game\Kenneth Andersen\inScope\09_00\bin\Debug\09_00.exe
+F:\Game\Kenneth Andersen\inScope\09_00\bin\Debug\09_00.pdb
+F:\Game\Kenneth Andersen\inScope\09_00\obj\Debug\09_00.csproj.AssemblyReference.cache
+F:\Game\Kenneth Andersen\inScope\09_00\obj\Debug\09_00.csproj.SuggestedBindingRedirects.cache
+F:\Game\Kenneth Andersen\inScope\09_00\obj\Debug\_09_00.Properties.Resources.resources
+F:\Game\Kenneth Andersen\inScope\09_00\obj\Debug\09_00.csproj.GenerateResource.cache
+F:\Game\Kenneth Andersen\inScope\09_00\obj\Debug\09_00.csproj.CoreCompileInputs.cache
+F:\Game\Kenneth Andersen\inScope\09_00\obj\Debug\09_00.exe
+F:\Game\Kenneth Andersen\inScope\09_00\obj\Debug\09_00.pdb

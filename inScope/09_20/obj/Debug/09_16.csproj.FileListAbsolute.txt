@@ -1,0 +1,15 @@
+D:\Git\inScope\09_16\bin\Debug\Sprites\enemy_01.png
+D:\Git\inScope\09_16\bin\Debug\Sprites\laser.png
+D:\Git\inScope\09_16\bin\Debug\Sprites\player.png
+D:\Git\inScope\09_16\bin\Debug\Sprites\BG1.png
+D:\Git\inScope\09_16\bin\Debug\Sprites\BG2.png
+D:\Git\inScope\09_16\bin\Debug\Sprites\BG3.png
+D:\Git\inScope\09_16\bin\Debug\09_00.exe.config
+D:\Git\inScope\09_16\bin\Debug\09_00.exe
+D:\Git\inScope\09_16\bin\Debug\09_00.pdb
+D:\Git\inScope\09_16\obj\Debug\09_16.csprojAssemblyReference.cache
+D:\Git\inScope\09_16\obj\Debug\_09_02.Form1.resources
+D:\Git\inScope\09_16\obj\Debug\_09_00.Properties.Resources.resources
+D:\Git\inScope\09_16\obj\Debug\09_16.csproj.GenerateResource.cache
+D:\Git\inScope\09_16\obj\Debug\09_00.exe
+D:\Git\inScope\09_16\obj\Debug\09_00.pdb

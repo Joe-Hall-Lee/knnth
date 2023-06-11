@@ -1,0 +1,10 @@
+D:\Git\inScope\09_02\bin\Debug\Sprites\player.png
+D:\Git\inScope\09_02\bin\Debug\09_00.exe.config
+D:\Git\inScope\09_02\bin\Debug\09_00.exe
+D:\Git\inScope\09_02\bin\Debug\09_00.pdb
+D:\Git\inScope\09_02\obj\Debug\09_02.csprojAssemblyReference.cache
+D:\Git\inScope\09_02\obj\Debug\_09_02.Form1.resources
+D:\Git\inScope\09_02\obj\Debug\_09_00.Properties.Resources.resources
+D:\Git\inScope\09_02\obj\Debug\09_02.csproj.GenerateResource.cache
+D:\Git\inScope\09_02\obj\Debug\09_00.exe
+D:\Git\inScope\09_02\obj\Debug\09_00.pdb

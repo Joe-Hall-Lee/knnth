@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _07_06
+{
+    interface IEatable
+    {
+        int Health
+        {
+            get;
+        }
+
+        void Eat();
+    }
+}

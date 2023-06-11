@@ -1,0 +1,15 @@
+F:\Game\Kenneth Andersen\inScope\04_05\bin\Debug\net7.0\04_05.exe
+F:\Game\Kenneth Andersen\inScope\04_05\bin\Debug\net7.0\04_05.deps.json
+F:\Game\Kenneth Andersen\inScope\04_05\bin\Debug\net7.0\04_05.runtimeconfig.json
+F:\Game\Kenneth Andersen\inScope\04_05\bin\Debug\net7.0\04_05.dll
+F:\Game\Kenneth Andersen\inScope\04_05\bin\Debug\net7.0\04_05.pdb
+F:\Game\Kenneth Andersen\inScope\04_05\obj\Debug\net7.0\04_05.csproj.AssemblyReference.cache
+F:\Game\Kenneth Andersen\inScope\04_05\obj\Debug\net7.0\04_05.GeneratedMSBuildEditorConfig.editorconfig
+F:\Game\Kenneth Andersen\inScope\04_05\obj\Debug\net7.0\04_05.AssemblyInfoInputs.cache
+F:\Game\Kenneth Andersen\inScope\04_05\obj\Debug\net7.0\04_05.AssemblyInfo.cs
+F:\Game\Kenneth Andersen\inScope\04_05\obj\Debug\net7.0\04_05.csproj.CoreCompileInputs.cache
+F:\Game\Kenneth Andersen\inScope\04_05\obj\Debug\net7.0\04_05.dll
+F:\Game\Kenneth Andersen\inScope\04_05\obj\Debug\net7.0\refint\04_05.dll
+F:\Game\Kenneth Andersen\inScope\04_05\obj\Debug\net7.0\04_05.pdb
+F:\Game\Kenneth Andersen\inScope\04_05\obj\Debug\net7.0\04_05.genruntimeconfig.cache
+F:\Game\Kenneth Andersen\inScope\04_05\obj\Debug\net7.0\ref\04_05.dll

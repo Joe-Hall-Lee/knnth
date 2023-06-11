@@ -1,0 +1,117 @@
+D:\Git\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0001.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0002.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0003.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0004.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0005.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0006.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0007.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0008.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0009.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0010.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0011.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0012.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0013.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0014.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0015.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0016.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\BG1.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\BG2.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\BG3.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\enemy_01.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\GameOver.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\laser.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\MenuButtons.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\planet_01.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\planet_02.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\player.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\PlayerFly\player02.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\PlayerFly\player03.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\PlayerFly\player04.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\PlayerFly\player05.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\PlayerFly\player06.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\PlayerFly\player07.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\PlayerFly\player08.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\PlayerFly\player09.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\PlayerFly\player10.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\PlayerFly\player11.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\PlayerFly\player12.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\PlayerFly\player13.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\shield.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\space-smoke_01.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\space-smoke_02.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\supply-crate.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\EnemyFly\enemy_01_00.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\EnemyFly\enemy_01_01.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\EnemyFly\enemy_01_02.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\EnemyFly\enemy_01_03.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\EnemyFly\enemy_01_04.png
+D:\Git\inScope\09_27\bin\Debug\Sprites\EnemyFly\enemy_01_05.png
+D:\Git\inScope\09_27\bin\Debug\09_00.exe.config
+D:\Git\inScope\09_27\bin\Debug\09_00.exe
+D:\Git\inScope\09_27\bin\Debug\09_00.pdb
+D:\Git\inScope\09_27\obj\Debug\09_27.csprojAssemblyReference.cache
+D:\Git\inScope\09_27\obj\Debug\_09_02.Form1.resources
+D:\Git\inScope\09_27\obj\Debug\_09_00.Properties.Resources.resources
+D:\Git\inScope\09_27\obj\Debug\09_27.csproj.GenerateResource.cache
+D:\Git\inScope\09_27\obj\Debug\09_27.csproj.CoreCompileInputs.cache
+D:\Git\inScope\09_27\obj\Debug\09_00.exe
+D:\Git\inScope\09_27\obj\Debug\09_00.pdb
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0001.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0002.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0003.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0004.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0005.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0006.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0007.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0008.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0009.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0010.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0011.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0012.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0013.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0014.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0015.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\Explosion\Explosion0016.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\BG1.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\BG2.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\BG3.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\enemy_01.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\GameOver.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\laser.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\MenuButtons.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\planet_01.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\planet_02.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\player.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\PlayerFly\player02.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\PlayerFly\player03.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\PlayerFly\player04.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\PlayerFly\player05.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\PlayerFly\player06.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\PlayerFly\player07.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\PlayerFly\player08.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\PlayerFly\player09.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\PlayerFly\player10.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\PlayerFly\player11.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\PlayerFly\player12.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\PlayerFly\player13.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\shield.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\space-smoke_01.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\space-smoke_02.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\supply-crate.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\EnemyFly\enemy_01_00.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\EnemyFly\enemy_01_01.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\EnemyFly\enemy_01_02.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\EnemyFly\enemy_01_03.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\EnemyFly\enemy_01_04.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\Sprites\EnemyFly\enemy_01_05.png
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\09_00.exe.config
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\09_00.exe
+F:\Game\Kenneth Andersen\inScope\09_27\bin\Debug\09_00.pdb
+F:\Game\Kenneth Andersen\inScope\09_27\obj\Debug\09_27.csproj.AssemblyReference.cache
+F:\Game\Kenneth Andersen\inScope\09_27\obj\Debug\09_27.csproj.SuggestedBindingRedirects.cache
+F:\Game\Kenneth Andersen\inScope\09_27\obj\Debug\_09_02.Form1.resources
+F:\Game\Kenneth Andersen\inScope\09_27\obj\Debug\_09_00.Properties.Resources.resources
+F:\Game\Kenneth Andersen\inScope\09_27\obj\Debug\09_27.csproj.GenerateResource.cache
+F:\Game\Kenneth Andersen\inScope\09_27\obj\Debug\09_27.csproj.CoreCompileInputs.cache
+F:\Game\Kenneth Andersen\inScope\09_27\obj\Debug\09_00.exe
+F:\Game\Kenneth Andersen\inScope\09_27\obj\Debug\09_00.pdb

@@ -1,0 +1,22 @@
+D:\Git\inScope\09_07\bin\Debug\Sprites\player.png
+D:\Git\inScope\09_07\bin\Debug\09_00.exe.config
+D:\Git\inScope\09_07\bin\Debug\09_00.exe
+D:\Git\inScope\09_07\bin\Debug\09_00.pdb
+D:\Git\inScope\09_07\obj\Debug\09_07.csprojAssemblyReference.cache
+D:\Git\inScope\09_07\obj\Debug\_09_02.Form1.resources
+D:\Git\inScope\09_07\obj\Debug\_09_00.Properties.Resources.resources
+D:\Git\inScope\09_07\obj\Debug\09_07.csproj.GenerateResource.cache
+D:\Git\inScope\09_07\obj\Debug\09_00.exe
+D:\Git\inScope\09_07\obj\Debug\09_00.pdb
+F:\Game\Kenneth Andersen\inScope\09_07\bin\Debug\Sprites\player.png
+F:\Game\Kenneth Andersen\inScope\09_07\bin\Debug\09_00.exe.config
+F:\Game\Kenneth Andersen\inScope\09_07\bin\Debug\09_00.exe
+F:\Game\Kenneth Andersen\inScope\09_07\bin\Debug\09_00.pdb
+F:\Game\Kenneth Andersen\inScope\09_07\obj\Debug\09_07.csproj.AssemblyReference.cache
+F:\Game\Kenneth Andersen\inScope\09_07\obj\Debug\09_07.csproj.SuggestedBindingRedirects.cache
+F:\Game\Kenneth Andersen\inScope\09_07\obj\Debug\_09_02.Form1.resources
+F:\Game\Kenneth Andersen\inScope\09_07\obj\Debug\_09_00.Properties.Resources.resources
+F:\Game\Kenneth Andersen\inScope\09_07\obj\Debug\09_07.csproj.GenerateResource.cache
+F:\Game\Kenneth Andersen\inScope\09_07\obj\Debug\09_07.csproj.CoreCompileInputs.cache
+F:\Game\Kenneth Andersen\inScope\09_07\obj\Debug\09_00.exe
+F:\Game\Kenneth Andersen\inScope\09_07\obj\Debug\09_00.pdb
